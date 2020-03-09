@@ -1,2 +1,3 @@
 i am just checking pulling repo with git
 now i am editing locally.
+again adding
